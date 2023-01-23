@@ -1,4 +1,7 @@
 # Compiled
+*.fas
+*.vlx
+*._ls
 
 # Backup files
 *~

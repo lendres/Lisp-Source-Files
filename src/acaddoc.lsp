@@ -59,8 +59,6 @@
 
 (AUTOLOAD "breaksnaps.fas" '("ba" "bz"))
 
-(AUTOLOAD "burkett-wong.fas" '("s1" "s2" "s3" "s4" "s5" "s6" "sm" "sr" "sr2"))
-
 (AUTOLOAD "change8x11.vlx" '("change8x11"))
 
 (AUTOLOAD "color-bylayer.fas" '("color-bylayer"))
@@ -107,7 +105,7 @@
 (AUTOLOAD "maintain-ltscale.vlx" '("init-maintain-ltscale" "remove-maintain-ltscale"))
 
 (AUTOLOAD "minsp.fas" '("minsp"))
-
+(AUTOLOAD "MultiFileTool.lsp" '("mft"))
 (AUTOLOAD "number.vlx" '("number"))
 
 (AUTOLOAD "ostoggle.fas" '("ostoggle"))
