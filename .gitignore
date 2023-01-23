@@ -3,6 +3,9 @@
 *.vlx
 *.ob
 
+# Ancillary files
+*.pdb
+
 # Backup files
 *~
 *._ls
