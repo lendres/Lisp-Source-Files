@@ -1,0 +1,28 @@
+;;; VLisp project file [V2.0] leaders saved to:[D:/Programming/Lisp Source Files] at:[8/18/00] 
+(VLISP-PROJECT-LIST
+    :NAME
+    LEADERS
+    :OWN-LIST
+    ("leaders" "leader_base"
+	       "auto_layerset"
+	       "create-dim-styles"
+	       "create-text-styles"
+    )
+    :FAS-DIRECTORY
+    ""
+    :TMP-DIRECTORY
+    ""
+    :PROJECT-KEYS
+    (:BUILD (:OPTIMIZE :LOCALIZE :MAKE-INTERNAL)
+	    :MERGED
+	    t
+	    :SAFE-MODE
+	    t
+	    :MSGLEVEL
+	    1
+    ) ;_ End :BUILD
+    :CONTEXT-ID
+    :AUTOLISP
+) ;_ End VLISP-PROJECT-LIST
+
+;;; EOF

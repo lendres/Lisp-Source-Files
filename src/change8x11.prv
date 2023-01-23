@@ -1,0 +1,13 @@
+;;; Visual LISP make file [V1.0] change8x11 saved to:[D:/Programming/Lisp Source Files] at:[5/15/00] 
+(PRV-DEF (:TARGET . "change8x11.VLX")
+	 (:ACTIVE-X . t)
+	 (:SEPARATE-NAMESPACE)
+	 (:PROTECTED . t)
+	 (:LOAD-FILE-LIST (:PRJ "change8x11.prj"))
+	 (:REQUIRE-FILE-LIST (:DCL "change8x11.dcl"))
+	 (:OB-DIRECTORY)
+	 (:TMP-DIRECTORY)
+	 (:OPTIMIZATION . ST)
+) ;_ End PRV-DEF
+
+;; EOF

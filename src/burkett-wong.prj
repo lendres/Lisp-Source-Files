@@ -1,0 +1,24 @@
+;;; VLisp project file [V2.0] burkett-wong saved to:[F:/Storage/Programming/Lisp Source Files] at:[10/31/05] 
+(VLISP-PROJECT-LIST
+    :NAME
+    burkett-wong
+    :OWN-LIST
+    ("burkett-wong")
+    :FAS-DIRECTORY
+    nil
+    :TMP-DIRECTORY
+    nil
+    :PROJECT-KEYS
+    (:BUILD (:OPTIMIZE :LOCALIZE)
+	    :MERGED
+	    T
+	    :SAFE-MODE
+	    T
+	    :MSGLEVEL
+	    1
+    ) ;_ End :BUILD
+    :CONTEXT-ID
+    :AUTOLISP
+) ;_ End VLISP-PROJECT-LIST
+
+;;; EOF

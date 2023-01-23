@@ -1,0 +1,12 @@
+;;; Visual LISP make file [V1.0] autoortho saved to:[A:/Programming/Programming/Lisp Source Files] at:[7/29/00] 
+(PRV-DEF (:target . "autoortho.VLX")
+	 (:active-x)
+	 (:separate-namespace . T)
+	 (:protected . T)
+	 (:load-file-list (:prj "autoortho.prj"))
+	 (:require-file-list)
+	 (:ob-directory)
+	 (:tmp-directory)
+	 (:optimization . lsa)
+)
+;; EOF

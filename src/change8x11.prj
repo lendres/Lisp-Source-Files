@@ -1,0 +1,17 @@
+;;; VLisp project file [V2.0] change8x11 saved to:[D:/Programming/Lisp Source Files] at:[5/15/00] 
+(VLISP-PROJECT-LIST
+    :NAME
+    CHANGE8X11
+    :OWN-LIST
+    ("change8x11" "layouttools" "le_utils" "ai_utils")
+    :FAS-DIRECTORY
+    nil
+    :TMP-DIRECTORY
+    nil
+    :PROJECT-KEYS
+    (:BUILD (:STANDARD) :MERGED nil :SAFE-MODE nil :MSGLEVEL 1)
+    :CONTEXT-ID
+    :autolisp
+) ;_ End VLISP-PROJECT-LIST
+
+;;; EOF

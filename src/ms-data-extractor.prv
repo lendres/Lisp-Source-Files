@@ -1,0 +1,13 @@
+;;; Visual LISP make file [V1.0] ms-data-extractor saved to:[A:/Programming/Programming/Lisp Source Files] at:[4/30/00] 
+(PRV-DEF (:TARGET . "ms-data-extractor.VLX")
+	 (:ACTIVE-X . t)
+	 (:SEPARATE-NAMESPACE . t)
+	 (:PROTECTED . t)
+	 (:LOAD-FILE-LIST (:PRJ "maintain-ltscale.prj"))
+	 (:REQUIRE-FILE-LIST)
+	 (:OB-DIRECTORY)
+	 (:TMP-DIRECTORY)
+	 (:OPTIMIZATION . LSA)
+) ;_ End PRV-DEF
+
+;; EOF

@@ -1,0 +1,17 @@
+;;; VLisp project file [V2.0] ms-data-extractor saved to:[A:/Programming/Programming/Lisp Source Files] at:[4/30/00] 
+(VLISP-PROJECT-LIST
+    :NAME
+    MS-DATA-EXTRACTOR
+    :OWN-LIST
+    ("ms-data-extractor" "sstools")
+    :FAS-DIRECTORY
+    nil
+    :TMP-DIRECTORY
+    nil
+    :PROJECT-KEYS
+    (:BUILD (:STANDARD))
+    :CONTEXT-ID
+    :autolisp
+) ;_ End VLISP-PROJECT-LIST
+
+;;; EOF

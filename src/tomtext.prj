@@ -1,0 +1,24 @@
+;;; VLisp project file [V2.0] tomtext saved to:[D:/Programming/Lisp Source Files] at:[6/1/00] 
+(VLISP-PROJECT-LIST
+    :NAME
+    TOMTEXT
+    :OWN-LIST
+    ("tomtext" "versorttext" "linespace")
+    :FAS-DIRECTORY
+    nil
+    :TMP-DIRECTORY
+    nil
+    :PROJECT-KEYS
+    (:BUILD (:OPTIMIZE :LOCALIZE :LINK)
+	    :MERGED
+	    t
+	    :SAFE-MODE
+	    t
+	    :MSGLEVEL
+	    1
+    ) ;_ End :BUILD
+    :CONTEXT-ID
+    :autolisp
+) ;_ End VLISP-PROJECT-LIST
+
+;;; EOF

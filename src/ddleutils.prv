@@ -1,0 +1,13 @@
+;;; Visual LISP make file [V1.0] ddleutils saved to:[A:/Programming/Programming/Lisp Source Files] at:[5/21/00] 
+(PRV-DEF (:TARGET . "ddleutils.VLX")
+	 (:ACTIVE-X)
+	 (:SEPARATE-NAMESPACE . t)
+	 (:PROTECTED . t)
+	 (:LOAD-FILE-LIST (:PRJ "ddleutils.prj"))
+	 (:REQUIRE-FILE-LIST (:DCL "ddleutils.dcl"))
+	 (:OB-DIRECTORY)
+	 (:TMP-DIRECTORY)
+	 (:OPTIMIZATION . LSA)
+) ;_ End PRV-DEF
+
+;; EOF

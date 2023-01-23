@@ -1,0 +1,26 @@
+Finish PIPEIN.  Have it run off of a data base or something
+else so that the blocks do not have to be hard coded into
+the program.
+
+Create a good double line ductwork program.  Draws double lines
+corners and tees.  Should know when you turn a corner to draw
+a corner symbol.  Include transitions.  Should check for 
+existing blocks that are required and if they don't exist
+it should create them.
+
+Reprogram INs to read layers from a data base and insert them
+on the correct layers.
+
+Setup notes so that a return at the point where it is asking
+for the start point of the leader will void the leader and
+insert a block only.  Setup notes to run off of a database
+or something similar.
+
+Finish UNMIRROR to work on attributes
+
+-----------------------------------------------------------------
+
+Establish layer conventions for use with INs and for the setup
+routine.
+
+-----------------------------------------------------------------

@@ -1,0 +1,24 @@
+;;; VLisp project file [V2.0] keyed-notes saved to:[A:/Programming/Programming/Lisp Source Files] at:[8/15/00] 
+(VLISP-PROJECT-LIST
+    :NAME
+    KEYED-NOTES
+    :OWN-LIST
+    ("keyed-notes" "leader_base" "le_utils" "auto_layerset")
+    :FAS-DIRECTORY
+    nil
+    :TMP-DIRECTORY
+    nil
+    :PROJECT-KEYS
+    (:BUILD (:OPTIMIZE :LOCALIZE :MAKE-INTERNAL)
+	    :MERGED
+	    t
+	    :SAFE-MODE
+	    t
+	    :MSGLEVEL
+	    1
+    ) ;_ End :BUILD
+    :CONTEXT-ID
+    :autolisp
+) ;_ End VLISP-PROJECT-LIST
+
+;;; EOF

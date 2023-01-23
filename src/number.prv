@@ -1,0 +1,13 @@
+;;; Visual LISP make file [V1.0] number saved to:[A:/Programming/Programming/Lisp Source Files] at:[7/24/00] 
+(PRV-DEF (:TARGET . "number.VLX")
+	 (:ACTIVE-X . t)
+	 (:SEPARATE-NAMESPACE . t)
+	 (:PROTECTED . t)
+	 (:LOAD-FILE-LIST (:PRJ "number.prj"))
+	 (:REQUIRE-FILE-LIST (:DCL "number.dcl"))
+	 (:OB-DIRECTORY)
+	 (:TMP-DIRECTORY)
+	 (:OPTIMIZATION . ST)
+) ;_ End PRV-DEF
+
+;; EOF

@@ -1,0 +1,13 @@
+;;; Visual LISP make file [V1.0] block-power-tools saved to:[E:/Programming/Lisp Source Files] at:[1/18/01] 
+(PRV-DEF (:TARGET . "block-power-tools.VLX")
+	 (:ACTIVE-X . t)
+	 (:SEPARATE-NAMESPACE . t)
+	 (:PROTECTED . t)
+	 (:LOAD-FILE-LIST (:PRJ "block-power-tools.prj"))
+	 (:REQUIRE-FILE-LIST)
+	 (:OB-DIRECTORY)
+	 (:TMP-DIRECTORY)
+	 (:OPTIMIZATION . LSA)
+) ;_ End PRV-DEF
+
+;; EOF

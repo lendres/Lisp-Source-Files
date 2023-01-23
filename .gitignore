@@ -1,0 +1,10 @@
+# Compiled
+
+# Backup files
+*~
+*.bak
+Archive/
+
+# Drawing locks
+*.dwl
+*.dwl2

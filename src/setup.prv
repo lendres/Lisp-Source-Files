@@ -1,0 +1,13 @@
+;;; Visual LISP make file [V1.0] setup saved to:[H:/Programming/Lisp Source Files] at:[2/3/19] 
+(PRV-DEF (:TARGET . "setup.VLX")
+	 (:ACTIVE-X . t)
+	 (:SEPARATE-NAMESPACE)
+	 (:PROTECTED . t)
+	 (:LOAD-FILE-LIST (:PRJ "setup.prj"))
+	 (:REQUIRE-FILE-LIST (:DCL "setup.dcl"))
+	 (:OB-DIRECTORY)
+	 (:TMP-DIRECTORY)
+	 (:OPTIMIZATION . LSA)
+) ;_ End PRV-DEF
+
+;; EOF

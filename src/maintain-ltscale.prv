@@ -1,0 +1,13 @@
+;;; Visual LISP make file [V1.0] maintain-ltscale saved to:[D:/Programming/Lisp Source Files] at:[4/25/00] 
+(PRV-DEF (:TARGET . "maintain-ltscale.VLX")
+	 (:ACTIVE-X . t)
+	 (:SEPARATE-NAMESPACE . t)
+	 (:PROTECTED . t)
+	 (:LOAD-FILE-LIST (:PRJ "maintain-ltscale.prj"))
+	 (:REQUIRE-FILE-LIST)
+	 (:OB-DIRECTORY)
+	 (:TMP-DIRECTORY)
+	 (:OPTIMIZATION . LSA)
+) ;_ End PRV-DEF
+
+;; EOF

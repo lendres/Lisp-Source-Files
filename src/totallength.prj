@@ -1,0 +1,16 @@
+;;; VLisp project file [V2.0] totallength saved to:[D:/Temp/Programming/Lisp Source Files] at:[5/25/10] 
+(VLISP-PROJECT-LIST
+  :name
+  totallength
+  :own-list
+  ("totallength")
+  :fas-directory
+  nil
+  :tmp-directory
+  nil
+  :project-keys
+  (:BUILD (:standard) :MERGED nil :SAFE-MODE T :MSGLEVEL 1)
+  :context-id
+  :AUTOLISP
+)
+;;; EOF

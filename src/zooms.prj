@@ -1,0 +1,23 @@
+;;; VLisp project file [V2.0] zooms saved to:[C:/Storage/Programming/Lisp Source Files] at:[11/15/04] 
+(VLISP-PROJECT-LIST
+  :NAME
+  zooms
+  :OWN-LIST
+  ("zooms")
+  :FAS-DIRECTORY
+  "C:\\Storage\\Programming\\Lisp Source Files"
+  :TMP-DIRECTORY
+  "C:\\Storage\\Programming\\Lisp Source Files"
+  :PROJECT-KEYS
+  (:BUILD (:OPTIMIZE :LOCALIZE :link)
+	  :MERGED
+	  T
+	  :SAFE-MODE
+	  T
+	  :MSGLEVEL
+	  1
+  )
+  :CONTEXT-ID
+  :AUTOLISP
+)
+;;; EOF

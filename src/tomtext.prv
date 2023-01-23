@@ -1,0 +1,13 @@
+;;; Visual LISP make file [V1.0] tomtext saved to:[D:/Programming/Lisp Source Files] at:[6/1/00] 
+(PRV-DEF (:TARGET . "tomtext.VLX")
+	 (:ACTIVE-X . t)
+	 (:SEPARATE-NAMESPACE . t)
+	 (:PROTECTED . t)
+	 (:LOAD-FILE-LIST (:PRJ "tomtext.prj"))
+	 (:REQUIRE-FILE-LIST)
+	 (:OB-DIRECTORY)
+	 (:TMP-DIRECTORY)
+	 (:OPTIMIZATION . LSA)
+) ;_ End PRV-DEF
+
+;; EOF

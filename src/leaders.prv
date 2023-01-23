@@ -1,0 +1,13 @@
+;;; Visual LISP make file [V1.0] leaders saved to:[C:/Storage/Programming/Lisp Source Files] at:[11/9/05] 
+(PRV-DEF (:TARGET . "leaders.VLX")
+	 (:ACTIVE-X . t)
+	 (:SEPARATE-NAMESPACE)
+	 (:PROTECTED . t)
+	 (:LOAD-FILE-LIST (:PRJ "leaders.prj"))
+	 (:REQUIRE-FILE-LIST)
+	 (:OB-DIRECTORY)
+	 (:TMP-DIRECTORY)
+	 (:OPTIMIZATION . LSA)
+) ;_ End PRV-DEF
+
+;; EOF

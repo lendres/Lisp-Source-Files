@@ -1,0 +1,24 @@
+;;; VLisp project file [V2.0] bgtoggle saved to:[E:/Programming/Lisp Source Files] at:[5/25/01] 
+(VLISP-PROJECT-LIST
+    :NAME
+    BGTOGGLE
+    :OWN-LIST
+    ("bgtoggle")
+    :FAS-DIRECTORY
+    nil
+    :TMP-DIRECTORY
+    nil
+    :PROJECT-KEYS
+    (:BUILD (:OPTIMIZE :LOCALIZE :MAKE-INTERNAL)
+	    :MERGED
+	    t
+	    :SAFE-MODE
+	    t
+	    :MSGLEVEL
+	    1
+    ) ;_ End :BUILD
+    :CONTEXT-ID
+    :autolisp
+) ;_ End VLISP-PROJECT-LIST
+
+;;; EOF

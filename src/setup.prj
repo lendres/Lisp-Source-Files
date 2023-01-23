@@ -1,0 +1,30 @@
+;;; VLisp project file [V2.0] setup saved to:[H:/Programming/Lisp Source Files] at:[2/3/19] 
+(VLISP-PROJECT-LIST
+    :NAME
+    SETUP
+    :OWN-LIST
+    ("H:/Programming/Lisp Source Files/addpstyles"
+	"H:/Programming/Lisp Source Files/create-text-styles"
+	"setup"
+	"le_utils"
+	"layouttools"
+	"create-dim-styles"
+       )
+    :FAS-DIRECTORY
+    nil
+    :TMP-DIRECTORY
+    nil
+    :PROJECT-KEYS
+    (:BUILD (:OPTIMIZE :LINK)
+	    :MERGED
+	    t
+	    :SAFE-MODE
+	    t
+	    :MSGLEVEL
+	    2
+    ) ;_ End :BUILD
+    :CONTEXT-ID
+    :autolisp
+) ;_ End VLISP-PROJECT-LIST
+
+;;; EOF

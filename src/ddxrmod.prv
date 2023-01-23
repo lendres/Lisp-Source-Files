@@ -1,0 +1,13 @@
+;;; Visual LISP make file [V1.0] ddxrmod saved to:[A:/Programming/Programming/Lisp Source Files] at:[5/21/00] 
+(PRV-DEF (:TARGET . "ddxrmod.VLX")
+	 (:ACTIVE-X)
+	 (:SEPARATE-NAMESPACE . t)
+	 (:PROTECTED . t)
+	 (:LOAD-FILE-LIST (:PRJ "ddxrmod.prj"))
+	 (:REQUIRE-FILE-LIST (:DCL "ddxrmod.dcl"))
+	 (:OB-DIRECTORY)
+	 (:TMP-DIRECTORY)
+	 (:OPTIMIZATION . LSA)
+) ;_ End PRV-DEF
+
+;; EOF

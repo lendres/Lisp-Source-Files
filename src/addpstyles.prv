@@ -1,0 +1,13 @@
+;;; Visual LISP make file [V1.0] addpstyles saved to:[D:/Programming/Lisp Source Files] at:[8/7/00] 
+(PRV-DEF (:TARGET . "addpstyles.VLX")
+	 (:ACTIVE-X . t)
+	 (:SEPARATE-NAMESPACE . t)
+	 (:PROTECTED . t)
+	 (:LOAD-FILE-LIST (:PRJ "addpstyles.prj"))
+	 (:REQUIRE-FILE-LIST)
+	 (:OB-DIRECTORY)
+	 (:TMP-DIRECTORY)
+	 (:OPTIMIZATION . LSA)
+) ;_ End PRV-DEF
+
+;; EOF

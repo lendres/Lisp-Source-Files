@@ -1,0 +1,13 @@
+;;; Visual LISP make file [V1.0] keyed-notes saved to:[A:/Programming/Programming/Lisp Source Files] at:[8/15/00] 
+(PRV-DEF (:TARGET . "keyed-notes.VLX")
+	 (:ACTIVE-X . t)
+	 (:SEPARATE-NAMESPACE)
+	 (:PROTECTED . t)
+	 (:LOAD-FILE-LIST (:PRJ "keyed-notes.prj"))
+	 (:REQUIRE-FILE-LIST)
+	 (:OB-DIRECTORY)
+	 (:TMP-DIRECTORY)
+	 (:OPTIMIZATION . LSA)
+) ;_ End PRV-DEF
+
+;; EOF

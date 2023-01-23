@@ -1,0 +1,13 @@
+;;; Visual LISP make file [V1.0] ddlayren saved to:[C:/Storage/Programming/Lisp Source Files] at:[2/2/05] 
+(PRV-DEF (:TARGET . "ddlayren.VLX")
+	 (:ACTIVE-X)
+	 (:SEPARATE-NAMESPACE . t)
+	 (:PROTECTED . t)
+	 (:LOAD-FILE-LIST (:PRJ "ddlayren.prj"))
+	 (:REQUIRE-FILE-LIST (:DCL "ddlayren.dcl"))
+	 (:OB-DIRECTORY)
+	 (:TMP-DIRECTORY)
+	 (:OPTIMIZATION . LSA)
+) ;_ End PRV-DEF
+
+;; EOF

@@ -1,0 +1,24 @@
+;;; VLisp project file [V2.0] block-power-tools saved to:[D:/Programming/Lisp Source Files] at:[8/4/00] 
+(VLISP-PROJECT-LIST
+    :NAME
+    BLOCK-POWER-TOOLS
+    :OWN-LIST
+    ("block-power-tools" "sstools" "frozen-locked-layer")
+    :FAS-DIRECTORY
+    nil
+    :TMP-DIRECTORY
+    nil
+    :PROJECT-KEYS
+    (:BUILD (:OPTIMIZE :LOCALIZE :MAKE-INTERNAL)
+	    :MERGED
+	    t
+	    :SAFE-MODE
+	    t
+	    :MSGLEVEL
+	    1
+    ) ;_ End :BUILD
+    :CONTEXT-ID
+    :autolisp
+) ;_ End VLISP-PROJECT-LIST
+
+;;; EOF

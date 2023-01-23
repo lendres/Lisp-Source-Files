@@ -1,0 +1,13 @@
+;;; Visual LISP make file [V1.0] pipelabel saved to:[D:/Programming/Lisp Source Files] at:[5/22/00] 
+(PRV-DEF (:TARGET . "pipelabel.VLX")
+	 (:ACTIVE-X)
+	 (:SEPARATE-NAMESPACE . t)
+	 (:PROTECTED . t)
+	 (:LOAD-FILE-LIST (:PRJ "pipelabel.prj"))
+	 (:REQUIRE-FILE-LIST)
+	 (:OB-DIRECTORY)
+	 (:TMP-DIRECTORY)
+	 (:OPTIMIZATION . LSA)
+) ;_ End PRV-DEF
+
+;; EOF

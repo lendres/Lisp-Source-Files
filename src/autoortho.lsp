@@ -1,0 +1,42 @@
+;;; autoortho.lsp
+;;; Copyright 1997-2000 by Lance A. Endres
+
+(defun c:MIRROR_ORTHO_OFF (/ ORTH SS)
+    (setq ORTH (getvar "orthomode"))
+    (setvar "orthomode" 0)
+    (setq SS (ssget))
+    (command "mirror" SS "" pause pause pause)
+    (setvar "orthomode" ORTH)
+    (princ)
+)
+
+(defun c:MIRROR_ORTHO_ON (/ ORTH SS)
+    (setq ORTH (getvar "orthomode"))
+    (setvar "orthomode" 1)
+    (setq SS (ssget))
+    (command "mirror" SS "" pause pause pause)
+    (setvar "orthomode" ORTH)
+    (princ)
+)
+
+(defun c:ROTATE_ORTHO_OFF (/ ORTH SS)
+    (setq ORTH (getvar "orthomode"))
+    (setvar "orthomode" 0)
+    (setq SS (ssget))
+    (command "rotate" SS "" pause pause)
+    (setvar "orthomode" ORTH)
+    (princ)
+)
+
+(defun c:ROTATE_ORTHO_ON (/ ORTH SS)
+    (setq ORTH (getvar "orthomode"))
+    (setvar "orthomode" 1)
+    (setq SS (ssget))
+    (command "rotate" SS "" pause pause)
+    (setvar "orthomode" ORTH)
+    (princ)
+)
+
+(defun *error* ()
+    (setvar "orthomode" ORTH)
+)
