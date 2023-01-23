@@ -1,10 +1,12 @@
 # Compiled
 *.fas
 *.vlx
-*._ls
+*.ob
 
 # Backup files
 *~
+*._ls
+*._dc
 *.bak
 Archive/
 
